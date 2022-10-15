@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Funkcii_Massivi_C#/Examples_008/bin/Debug/net6.0/Examples_008
+/Users/mac/Desktop/Funkcii_Massivi_C#/Examples_008/bin/Debug/net6.0/Examples_008.deps.json
+/Users/mac/Desktop/Funkcii_Massivi_C#/Examples_008/bin/Debug/net6.0/Examples_008.runtimeconfig.json
+/Users/mac/Desktop/Funkcii_Massivi_C#/Examples_008/bin/Debug/net6.0/Examples_008.dll
+/Users/mac/Desktop/Funkcii_Massivi_C#/Examples_008/bin/Debug/net6.0/Examples_008.pdb
+/Users/mac/Desktop/Funkcii_Massivi_C#/Examples_008/obj/Debug/net6.0/Examples_008.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Funkcii_Massivi_C#/Examples_008/obj/Debug/net6.0/Examples_008.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Funkcii_Massivi_C#/Examples_008/obj/Debug/net6.0/Examples_008.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Funkcii_Massivi_C#/Examples_008/obj/Debug/net6.0/Examples_008.AssemblyInfo.cs
+/Users/mac/Desktop/Funkcii_Massivi_C#/Examples_008/obj/Debug/net6.0/Examples_008.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Funkcii_Massivi_C#/Examples_008/obj/Debug/net6.0/Examples_008.dll
+/Users/mac/Desktop/Funkcii_Massivi_C#/Examples_008/obj/Debug/net6.0/refint/Examples_008.dll
+/Users/mac/Desktop/Funkcii_Massivi_C#/Examples_008/obj/Debug/net6.0/Examples_008.pdb
+/Users/mac/Desktop/Funkcii_Massivi_C#/Examples_008/obj/Debug/net6.0/Examples_008.genruntimeconfig.cache
+/Users/mac/Desktop/Funkcii_Massivi_C#/Examples_008/obj/Debug/net6.0/ref/Examples_008.dll
